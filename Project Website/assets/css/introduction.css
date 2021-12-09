@@ -1,0 +1,15 @@
+.introduction {
+  background-image: url(https://videohive.img.customer.envatousercontent.com/files/f3ebf072-7b5e-403d-aac8-44969789e330/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=bb80ebbc0315eba2984797115aa9af8a);
+  background-position: center;
+  background-size: cover;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
