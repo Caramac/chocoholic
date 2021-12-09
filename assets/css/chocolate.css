@@ -1,0 +1,15 @@
+.types__card {
+  height: 100%;
+}
+
+
+.types__card .card-body {
+  display: flex;;
+  flex-direction: column;
+}
+
+.types__card .card-text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  flex-grow: 1;
+}

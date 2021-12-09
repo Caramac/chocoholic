@@ -1,0 +1,20 @@
+.chocolate-carousel .carousel-caption {
+    width: 80;
+    left: 40;
+}
+
+.html{
+    font-family: Poppins;
+}
+
+
+
+.carousel-caption h5{
+    font-size: 80px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    text-align: left;
+    font-weight: bolder;
+    color:rgb(134, 173, 118);
+}
